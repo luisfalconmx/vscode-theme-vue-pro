@@ -1,0 +1,69 @@
+{
+  "name": "@luisfalconmx/vscode-theme-vue-pro",
+  "description": "Vue Pro Theme for Visual Studio Code",
+  "displayName": "Vue Pro Theme",
+  "publisher": "luisfalconmx",
+  "license": "MIT",
+  "author": "luisfalconmx",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "homepage": "https://github.com/luisfalconmx/vscode-theme-vue-pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luisfalconmx/vscode-theme-vue-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luisfalconmx/vscode-theme-vue-pro/issues"
+  },
+  "galleryBanner": {
+    "color": "#01020E",
+    "theme": "dark"
+  },
+  "icon": "images/vscode-theme-vue-pro.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vue pro dark theme",
+    "vue pro dark",
+    "vue-pro-theme",
+    "vue pro theme",
+    "vue pro",
+    "theme vue pro",
+    "green",
+    "dark",
+    "theme",
+    "vscode",
+    "luisfalconmx",
+    "luisfalconmx/vue-pro-theme",
+    "vue",
+    "vue theme",
+    "dark theme",
+    "dark",
+    "vscode",
+    "vscode theme",
+    "vscode-theme",
+    "vscode-extension",
+    "luisfalconmx",
+    "luisfalconmx theme",
+    "dark theme",
+    "one dark pro",
+    "palenight",
+    "monokai",
+    "atom",
+    "sublime text",
+    "themes",
+    "cobalt"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vue Pro Theme",
+        "uiTheme": "vs-dark",
+        "path": "./theme/vue-pro-theme.json"
+      }
+    ]
+  }
+}
