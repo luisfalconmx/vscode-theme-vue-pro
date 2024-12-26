@@ -1,15 +1,15 @@
 <!-- START .github/README_TEMPLATE/vscode-theme.template.md -->
-<h1 align="center">vscode-theme-vue-pro</h1>
+<h1 align="center">Vscode Theme Vue Pro</h1>
 
 <p align="center">
   <b>Vue Pro Theme for Visual Studio Code</b><br />
-  <sub>Created with ❤️ by <a href="https://www.luisfalconmx.dev/">luisfalconmx.dev</a></sub>
+  <sub>Created with ❤️ by <a href="https://www.luisfalconmx.dev">luisfalconmx.dev</a></sub>
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luisfalconmx/vscode-theme-vue-pro/main/.github/screenshot.png" alt="vscode-theme-vue-pro" width="100%" />
+  <img src="https://raw.githubusercontent.com/luisfalconmx/vscode-theme-vue-pro/main/.github/screenshot.png" alt="Vscode Theme Vue Pro" width="100%" />
 </p>
 
 <br />
@@ -74,7 +74,7 @@ npm run stylelint
 npm run pretty
 ```
 
-## Pull Requests
+## Contributing
 
 #### To contribute to the project you need to create a new branch from the main branch
 
@@ -180,9 +180,18 @@ git push origin <tag>
 Check the complete list of all official releases published:
 [https://github.com/luisfalconmx/vscode-theme-vue-pro/releases](https://github.com/luisfalconmx/vscode-theme-vue-pro/releases)
 
+## Deployments
+
+All deployments are automatic because this project has a integration with **Vercel**. Any contribution added in main branch will deploy this project in production.
+
+You can check the status of deployments in the next link:
+[https://github.com/luisfalconmx/vscode-theme-vue-pro/deployments](https://github.com/luisfalconmx/vscode-theme-vue-pro/deployments)
+
+For better understand, it is advisable to follow the instructions detailed in [contributing](https://github.com/luisfalconmx/vscode-theme-vue-pro#contributing) section.
+
 ## License
 
-This project is free and open-source software licensed under the [MIT License](https://github.com/luisfalconmx/vscode-theme-vue-pro/blob/main/LICENSE).
+This project is free and open-source software licensed under the []().
 
 Some contents like images, videos, documents and other multimedia files use your own licence and in case required atributtion this is mentioned in any part of this project like in the code or in the documentation.
 
