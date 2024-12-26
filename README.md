@@ -1,5 +1,5 @@
 <!-- START .github/README_TEMPLATE/vscode-theme.template.md -->
-<h1 align="center">Vscode Theme Vue Pro</h1>
+<h1 align="center">vscode-theme-vue-pro</h1>
 
 <p align="center">
   <b>Vue Pro Theme for Visual Studio Code</b><br />
